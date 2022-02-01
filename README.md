@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praveenvuddagiri
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vuddagiripraveen@gmail.com
 
