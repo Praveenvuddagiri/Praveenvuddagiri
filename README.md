@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Praveenvuddagiri
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for an internship
 - 📫 How to reach me vuddagiripraveen@gmail.com
 - My LinkedIn profile https://www.linkedin.com/in/praveenvuddagiri/
 
